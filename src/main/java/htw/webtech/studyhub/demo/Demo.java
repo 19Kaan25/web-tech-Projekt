@@ -1,4 +1,4 @@
-package htw.webtech.projektname.demo;
+package htw.webtech.studyhub.demo;
 
 public record Demo(String name, int age) {
 }
